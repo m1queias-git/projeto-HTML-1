@@ -32,7 +32,7 @@ footer{
     padding-bottom: 3%;
     padding-top: 2%;
     border-radius: 100px;
-    text-align: center;
+    text-align: center;sS
     margin: 0 auto;
 }
 img{
@@ -71,15 +71,17 @@ p{
 }
 .tabela{
     color: rgb(0, 0, 0);
-    border-radius: 15px;
+    border-radius: 10px;
+    padding: 2px;
+    text-align: justify;
     margin: 0 auto;
-    padding: 6px;
 }
 .nomes{
-    border-radius: 15px;
+    border-radius: 1px;
     padding: 6px;
     color: rgb(0, 81, 255);
     box-shadow: 3px 3px 7px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .cima{
     background-color: rgb(255, 0, 255);
